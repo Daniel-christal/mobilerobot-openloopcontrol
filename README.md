@@ -91,7 +91,7 @@ if _name=='__main_':
 ## MobileRobot Movement Image:
 ![image](https://github.com/Neethiventhan123/mobilerobot-openloopcontrol/assets/148514848/5df5e118-a4af-42c0-a029-0fed98d31de0)
 ![image](https://github.com/Neethiventhan123/mobilerobot-openloopcontrol/assets/148514848/98eb1e93-f4fa-42c8-9377-5ff05508068a)
-![image](https://github.com/Neethiventhan123/mobilerobot-openloopcontrol/assets/148514848/ae95fe14-46b1-49eb-bb2f-bb7601bf713e)
+
 
 
 
